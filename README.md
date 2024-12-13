@@ -1,0 +1,1 @@
+This repository contains a simple Java program that showcases common runtime exceptions, specifically ArrayIndexOutOfBoundsException and NullPointerException. The program demonstrates how these exceptions arise and provides solutions to prevent them through careful input validation and null checks.  The solution file offers corrected code demonstrating best practices.
